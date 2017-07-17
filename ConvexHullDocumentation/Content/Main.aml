@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<topic id="177f6ffb-59ca-4814-9a69-b2fede6f16a4" revisionNumber="1">
+  <developerWhitePaperDocument
+    xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <!--
+    <summary>
+      <para>Optional summary abstract</para>
+    </summary>
+    -->
+
+    <byline>
+      <para>Convex hull project info</para>
+    </byline>
+
+    <date>
+      <para>07/16/2017</para>
+    </date>
+
+    <summarySection>
+      <content>
+        <para>
+          The solution consists of 4 projects:
+          1) ConvexHullConsole - main project - contains the logic and presentation in console;
+          2) ConvexHull - WPF-version - for visual display;
+          3) ConvexHullConsole.Tests - tests for ConvexHullConsole;
+          4) ConvexHullDocumentation - project for generating documentation.
+        </para>
+      </content>
+    </summarySection>
+
+    <conclusion>
+      <content>
+        <para>
+          Can improve:
+          1) Image loading and points find further improvement: use of specialized libraries in the processing of PNG images, work with the file directly, using assembler;
+          2) Convex hull scan further improvement: to move some calculations out from the cycles, to find (for example here: https://designengrlab.github.io/MIConvexHull/) or to write other implementations of the algorithm, compare and choose more suitable algorithm for the task;
+          3) Improve test coverage, add random tests, tests on large data;
+          4) Conduct code profiling and work on bottlenecks
+        </para>
+      </content>
+    </conclusion>
+
+    ConvexHull section presents more detail description.
+    <!--<relatedTopics>
+    <link xlink:href="N_ConvexHull">Classes description</link>
+    </relatedTopics>-->
+
+  </developerWhitePaperDocument>
+</topic>

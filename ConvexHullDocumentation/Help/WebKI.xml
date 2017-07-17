@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ConvexHull namespace" Url="html/N_ConvexHull.htm" />
+  <HelpKINode Title="ConvexHull property" Url="html/P_ConvexHull_ConvexHullControl_ConvexHull.htm" />
+  <HelpKINode Title="ConvexHull.ConvexHullControl class" Url="html/T_ConvexHull_ConvexHullControl.htm" />
+  <HelpKINode Title="ConvexHull.CPoint class" Url="html/T_ConvexHull_CPoint.htm" />
+  <HelpKINode Title="ConvexHull.GenerateRandomPoints class" Url="html/T_ConvexHull_GenerateRandomPoints.htm" />
+  <HelpKINode Title="ConvexHull.Graham class" Url="html/T_ConvexHull_Graham.htm" />
+  <HelpKINode Title="ConvexHull.GrahamScan class" Url="html/T_ConvexHull_GrahamScan.htm" />
+  <HelpKINode Title="ConvexHull.IConvexHullScan interface" Url="html/T_ConvexHull_IConvexHullScan.htm" />
+  <HelpKINode Title="ConvexHull.IOpenImage interface" Url="html/T_ConvexHull_IOpenImage.htm" />
+  <HelpKINode Title="ConvexHull.IOutput interface" Url="html/T_ConvexHull_IOutput.htm" />
+  <HelpKINode Title="ConvexHull.JarvisMatch class" Url="html/T_ConvexHull_JarvisMatch.htm" />
+  <HelpKINode Title="ConvexHull.OpenImageToBitmap class" Url="html/T_ConvexHull_OpenImageToBitmap.htm" />
+  <HelpKINode Title="ConvexHullConsole namespace" Url="html/N_ConvexHullConsole.htm" />
+  <HelpKINode Title="ConvexHullConsole.Program class" Url="html/T_ConvexHullConsole_Program.htm" />
+  <HelpKINode Title="ConvexHullControl class">
+    <HelpKINode Title="ConvexHullControl Class" Url="html/T_ConvexHull_ConvexHullControl.htm" />
+    <HelpKINode Title="about ConvexHullControl class" Url="html/T_ConvexHull_ConvexHullControl.htm" />
+    <HelpKINode Title="constructor" Url="html/M_ConvexHull_ConvexHullControl__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_ConvexHull_ConvexHullControl.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvexHullControl.ConvexHull property" Url="html/P_ConvexHull_ConvexHullControl_ConvexHull.htm" />
+  <HelpKINode Title="ConvexHullControl.ConvexHullControl constructor" Url="html/M_ConvexHull_ConvexHullControl__ctor.htm" />
+  <HelpKINode Title="ConvexHullControl.ConvexHullScan property" Url="html/P_ConvexHull_ConvexHullControl_ConvexHullScan.htm" />
+  <HelpKINode Title="ConvexHullControl.OpenImage property" Url="html/P_ConvexHull_ConvexHullControl_OpenImage.htm" />
+  <HelpKINode Title="ConvexHullControl.Output property" Url="html/P_ConvexHull_ConvexHullControl_Output.htm" />
+  <HelpKINode Title="ConvexHullControl.SourcePoints property" Url="html/P_ConvexHull_ConvexHullControl_SourcePoints.htm" />
+  <HelpKINode Title="ConvexHullScan method">
+    <HelpKINode Title="Graham.ConvexHullScan Method " Url="html/M_ConvexHull_Graham_ConvexHullScan.htm" />
+    <HelpKINode Title="GrahamScan.ConvexHullScan Method " Url="html/M_ConvexHull_GrahamScan_ConvexHullScan.htm" />
+    <HelpKINode Title="IConvexHullScan.ConvexHullScan Method " Url="html/M_ConvexHull_IConvexHullScan_ConvexHullScan.htm" />
+    <HelpKINode Title="JarvisMatch.ConvexHullScan Method " Url="html/M_ConvexHull_JarvisMatch_ConvexHullScan.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvexHullScan property" Url="html/P_ConvexHull_ConvexHullControl_ConvexHullScan.htm" />
+  <HelpKINode Title="CPoint class">
+    <HelpKINode Title="CPoint Class" Url="html/T_ConvexHull_CPoint.htm" />
+    <HelpKINode Title="about CPoint class" Url="html/T_ConvexHull_CPoint.htm" />
+    <HelpKINode Title="constructor" Url="html/M_ConvexHull_CPoint__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHull_CPoint.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_ConvexHull_CPoint.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CPoint.CPoint constructor" Url="html/M_ConvexHull_CPoint__ctor.htm" />
+  <HelpKINode Title="CPoint.ToString method" Url="html/M_ConvexHull_CPoint_ToString.htm" />
+  <HelpKINode Title="CPoint.X property" Url="html/P_ConvexHull_CPoint_X.htm" />
+  <HelpKINode Title="CPoint.Y property" Url="html/P_ConvexHull_CPoint_Y.htm" />
+  <HelpKINode Title="GenerateRandomPoints class">
+    <HelpKINode Title="GenerateRandomPoints Class" Url="html/T_ConvexHull_GenerateRandomPoints.htm" />
+    <HelpKINode Title="about GenerateRandomPoints class" Url="html/T_ConvexHull_GenerateRandomPoints.htm" />
+    <HelpKINode Title="constructor" Url="html/M_ConvexHull_GenerateRandomPoints__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHull_GenerateRandomPoints.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenerateRandomPoints.GenerateRandomPoints constructor" Url="html/M_ConvexHull_GenerateRandomPoints__ctor.htm" />
+  <HelpKINode Title="GenerateRandomPoints.OpenImage method" Url="html/M_ConvexHull_GenerateRandomPoints_OpenImage.htm" />
+  <HelpKINode Title="Graham class">
+    <HelpKINode Title="Graham Class" Url="html/T_ConvexHull_Graham.htm" />
+    <HelpKINode Title="about Graham class" Url="html/T_ConvexHull_Graham.htm" />
+    <HelpKINode Title="constructor" Url="html/M_ConvexHull_Graham__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHull_Graham.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Graham.ConvexHullScan method" Url="html/M_ConvexHull_Graham_ConvexHullScan.htm" />
+  <HelpKINode Title="Graham.Graham constructor" Url="html/M_ConvexHull_Graham__ctor.htm" />
+  <HelpKINode Title="GrahamScan class">
+    <HelpKINode Title="GrahamScan Class" Url="html/T_ConvexHull_GrahamScan.htm" />
+    <HelpKINode Title="about GrahamScan class" Url="html/T_ConvexHull_GrahamScan.htm" />
+    <HelpKINode Title="constructor" Url="html/M_ConvexHull_GrahamScan__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHull_GrahamScan.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GrahamScan.ConvexHullScan method" Url="html/M_ConvexHull_GrahamScan_ConvexHullScan.htm" />
+  <HelpKINode Title="GrahamScan.GrahamScan constructor" Url="html/M_ConvexHull_GrahamScan__ctor.htm" />
+  <HelpKINode Title="IConvexHullScan interface">
+    <HelpKINode Title="IConvexHullScan Interface" Url="html/T_ConvexHull_IConvexHullScan.htm" />
+    <HelpKINode Title="about IConvexHullScan interface" Url="html/T_ConvexHull_IConvexHullScan.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHull_IConvexHullScan.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConvexHullScan.ConvexHullScan method" Url="html/M_ConvexHull_IConvexHullScan_ConvexHullScan.htm" />
+  <HelpKINode Title="IOpenImage interface">
+    <HelpKINode Title="IOpenImage Interface" Url="html/T_ConvexHull_IOpenImage.htm" />
+    <HelpKINode Title="about IOpenImage interface" Url="html/T_ConvexHull_IOpenImage.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHull_IOpenImage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IOpenImage.OpenImage method" Url="html/M_ConvexHull_IOpenImage_OpenImage.htm" />
+  <HelpKINode Title="IOutput interface">
+    <HelpKINode Title="IOutput Interface" Url="html/T_ConvexHull_IOutput.htm" />
+    <HelpKINode Title="about IOutput interface" Url="html/T_ConvexHull_IOutput.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHull_IOutput.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IOutput.OutputHull method" Url="html/M_ConvexHull_IOutput_OutputHull.htm" />
+  <HelpKINode Title="IOutput.OutputPoints method" Url="html/M_ConvexHull_IOutput_OutputPoints.htm" />
+  <HelpKINode Title="JarvisMatch class">
+    <HelpKINode Title="JarvisMatch Class" Url="html/T_ConvexHull_JarvisMatch.htm" />
+    <HelpKINode Title="about JarvisMatch class" Url="html/T_ConvexHull_JarvisMatch.htm" />
+    <HelpKINode Title="constructor" Url="html/M_ConvexHull_JarvisMatch__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHull_JarvisMatch.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JarvisMatch.ConvexHullScan method" Url="html/M_ConvexHull_JarvisMatch_ConvexHullScan.htm" />
+  <HelpKINode Title="JarvisMatch.JarvisMatch constructor" Url="html/M_ConvexHull_JarvisMatch__ctor.htm" />
+  <HelpKINode Title="Main method" Url="html/M_ConvexHullConsole_Program_Main.htm" />
+  <HelpKINode Title="OpenImage method">
+    <HelpKINode Title="GenerateRandomPoints.OpenImage Method " Url="html/M_ConvexHull_GenerateRandomPoints_OpenImage.htm" />
+    <HelpKINode Title="IOpenImage.OpenImage Method " Url="html/M_ConvexHull_IOpenImage_OpenImage.htm" />
+    <HelpKINode Title="OpenImageToBitmap.OpenImage Method " Url="html/M_ConvexHull_OpenImageToBitmap_OpenImage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OpenImage property" Url="html/P_ConvexHull_ConvexHullControl_OpenImage.htm" />
+  <HelpKINode Title="OpenImageToBitmap class">
+    <HelpKINode Title="OpenImageToBitmap Class" Url="html/T_ConvexHull_OpenImageToBitmap.htm" />
+    <HelpKINode Title="about OpenImageToBitmap class" Url="html/T_ConvexHull_OpenImageToBitmap.htm" />
+    <HelpKINode Title="constructor" Url="html/M_ConvexHull_OpenImageToBitmap__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHull_OpenImageToBitmap.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OpenImageToBitmap.OpenImage method" Url="html/M_ConvexHull_OpenImageToBitmap_OpenImage.htm" />
+  <HelpKINode Title="OpenImageToBitmap.OpenImageToBitmap constructor" Url="html/M_ConvexHull_OpenImageToBitmap__ctor.htm" />
+  <HelpKINode Title="Output property" Url="html/P_ConvexHull_ConvexHullControl_Output.htm" />
+  <HelpKINode Title="OutputHull method" Url="html/M_ConvexHull_IOutput_OutputHull.htm" />
+  <HelpKINode Title="OutputPoints method" Url="html/M_ConvexHull_IOutput_OutputPoints.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/T_ConvexHullConsole_Program.htm" />
+    <HelpKINode Title="about Program class" Url="html/T_ConvexHullConsole_Program.htm" />
+    <HelpKINode Title="constructor" Url="html/M_ConvexHullConsole_Program__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_ConvexHullConsole_Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Main method" Url="html/M_ConvexHullConsole_Program_Main.htm" />
+  <HelpKINode Title="Program.Program constructor" Url="html/M_ConvexHullConsole_Program__ctor.htm" />
+  <HelpKINode Title="SourcePoints property" Url="html/P_ConvexHull_ConvexHullControl_SourcePoints.htm" />
+  <HelpKINode Title="ToString method" Url="html/M_ConvexHull_CPoint_ToString.htm" />
+  <HelpKINode Title="X property" Url="html/P_ConvexHull_CPoint_X.htm" />
+  <HelpKINode Title="Y property" Url="html/P_ConvexHull_CPoint_Y.htm" />
+</HelpKI>

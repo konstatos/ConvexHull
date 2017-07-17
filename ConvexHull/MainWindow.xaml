@@ -1,0 +1,21 @@
+﻿<Window x:Class="ConvexHull.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConvexHull"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <Button Name="_bOpen" Content="Обработать файл p.png из папки с исполняемым файлом программы" Click="_bOpen_Click" />
+    <Viewbox Grid.Row="1" Name="_vSource"  >
+      <Canvas  Name="_cSource" />
+    </Viewbox>
+    <!--<GridSplitter Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="10"/>-->
+  </Grid>
+</Window>

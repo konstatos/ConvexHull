@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Main info" Url="html/177f6ffb-59ca-4814-9a69-b2fede6f16a4.htm" />
+  <HelpTOCNode Id="d09ec4d4-8962-4a48-9317-70a26441c8f2" Title="ConvexHull" Url="html/N_ConvexHull.htm">
+    <HelpTOCNode Id="89bc82c7-010b-4182-95d7-c9eb00b12e2e" Title="ConvexHullControl Class" Url="html/T_ConvexHull_ConvexHullControl.htm">
+      <HelpTOCNode Title="ConvexHullControl Constructor " Url="html/M_ConvexHull_ConvexHullControl__ctor.htm" />
+      <HelpTOCNode Id="bca9aa26-c07c-451d-96d6-da26dcce1553" Title="ConvexHullControl Properties" Url="html/Properties_T_ConvexHull_ConvexHullControl.htm">
+        <HelpTOCNode Title="ConvexHull Property " Url="html/P_ConvexHull_ConvexHullControl_ConvexHull.htm" />
+        <HelpTOCNode Title="ConvexHullScan Property " Url="html/P_ConvexHull_ConvexHullControl_ConvexHullScan.htm" />
+        <HelpTOCNode Title="OpenImage Property " Url="html/P_ConvexHull_ConvexHullControl_OpenImage.htm" />
+        <HelpTOCNode Title="Output Property " Url="html/P_ConvexHull_ConvexHullControl_Output.htm" />
+        <HelpTOCNode Title="SourcePoints Property " Url="html/P_ConvexHull_ConvexHullControl_SourcePoints.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8d27b68b-8d54-46ff-9320-ddab7315fb61" Title="CPoint Class" Url="html/T_ConvexHull_CPoint.htm">
+      <HelpTOCNode Title="CPoint Constructor " Url="html/M_ConvexHull_CPoint__ctor.htm" />
+      <HelpTOCNode Id="0118dbd3-94e8-4b07-8165-c5df4aa3b36c" Title="CPoint Properties" Url="html/Properties_T_ConvexHull_CPoint.htm">
+        <HelpTOCNode Title="X Property " Url="html/P_ConvexHull_CPoint_X.htm" />
+        <HelpTOCNode Title="Y Property " Url="html/P_ConvexHull_CPoint_Y.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7df5050b-aa56-4784-84c7-81ff53cf5e00" Title="CPoint Methods" Url="html/Methods_T_ConvexHull_CPoint.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/M_ConvexHull_CPoint_ToString.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e549da60-ade4-42ae-a29d-e8cfe24dbead" Title="GenerateRandomPoints Class" Url="html/T_ConvexHull_GenerateRandomPoints.htm">
+      <HelpTOCNode Title="GenerateRandomPoints Constructor " Url="html/M_ConvexHull_GenerateRandomPoints__ctor.htm" />
+      <HelpTOCNode Id="e1238156-8014-4b43-8dd2-aa1b02b14540" Title="GenerateRandomPoints Methods" Url="html/Methods_T_ConvexHull_GenerateRandomPoints.htm">
+        <HelpTOCNode Title="OpenImage Method " Url="html/M_ConvexHull_GenerateRandomPoints_OpenImage.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f0e9d8e3-2eb3-4687-8b73-f964b78e5402" Title="Graham Class" Url="html/T_ConvexHull_Graham.htm">
+      <HelpTOCNode Title="Graham Constructor " Url="html/M_ConvexHull_Graham__ctor.htm" />
+      <HelpTOCNode Id="ebf98eba-6abf-47cd-b5ad-f06be4113bb7" Title="Graham Methods" Url="html/Methods_T_ConvexHull_Graham.htm">
+        <HelpTOCNode Title="ConvexHullScan Method " Url="html/M_ConvexHull_Graham_ConvexHullScan.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6c16b018-a785-4ada-b893-aaaf470a68e0" Title="GrahamScan Class" Url="html/T_ConvexHull_GrahamScan.htm">
+      <HelpTOCNode Title="GrahamScan Constructor " Url="html/M_ConvexHull_GrahamScan__ctor.htm" />
+      <HelpTOCNode Id="255caafd-e9ae-4043-bb0e-92fb64db8b73" Title="GrahamScan Methods" Url="html/Methods_T_ConvexHull_GrahamScan.htm">
+        <HelpTOCNode Title="ConvexHullScan Method " Url="html/M_ConvexHull_GrahamScan_ConvexHullScan.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bc67f6a7-0398-427a-b376-506fc1028c58" Title="IConvexHullScan Interface" Url="html/T_ConvexHull_IConvexHullScan.htm">
+      <HelpTOCNode Id="06186b27-07fe-4f7a-a7b5-a82e4b629080" Title="IConvexHullScan Methods" Url="html/Methods_T_ConvexHull_IConvexHullScan.htm">
+        <HelpTOCNode Title="ConvexHullScan Method " Url="html/M_ConvexHull_IConvexHullScan_ConvexHullScan.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c224d1ef-f56a-4b4a-9a40-823e7d204419" Title="IOpenImage Interface" Url="html/T_ConvexHull_IOpenImage.htm">
+      <HelpTOCNode Id="f75750df-2b56-4c8a-9253-6aaf6dce3d66" Title="IOpenImage Methods" Url="html/Methods_T_ConvexHull_IOpenImage.htm">
+        <HelpTOCNode Title="OpenImage Method " Url="html/M_ConvexHull_IOpenImage_OpenImage.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9bb7eeb7-e520-4faa-9fa6-1e298166689a" Title="IOutput Interface" Url="html/T_ConvexHull_IOutput.htm">
+      <HelpTOCNode Id="ccf2f25d-2959-469a-9c48-7e944a6c3ab1" Title="IOutput Methods" Url="html/Methods_T_ConvexHull_IOutput.htm">
+        <HelpTOCNode Title="OutputHull Method " Url="html/M_ConvexHull_IOutput_OutputHull.htm" />
+        <HelpTOCNode Title="OutputPoints Method " Url="html/M_ConvexHull_IOutput_OutputPoints.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="656b5bd5-a30e-46e8-a32e-ff9f137636ae" Title="JarvisMatch Class" Url="html/T_ConvexHull_JarvisMatch.htm">
+      <HelpTOCNode Title="JarvisMatch Constructor " Url="html/M_ConvexHull_JarvisMatch__ctor.htm" />
+      <HelpTOCNode Id="7f6579d2-2074-4019-bb24-5167b9808ad3" Title="JarvisMatch Methods" Url="html/Methods_T_ConvexHull_JarvisMatch.htm">
+        <HelpTOCNode Title="ConvexHullScan Method " Url="html/M_ConvexHull_JarvisMatch_ConvexHullScan.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="03aeedff-b2a3-43fe-af55-a629ab20acf2" Title="OpenImageToBitmap Class" Url="html/T_ConvexHull_OpenImageToBitmap.htm">
+      <HelpTOCNode Title="OpenImageToBitmap Constructor " Url="html/M_ConvexHull_OpenImageToBitmap__ctor.htm" />
+      <HelpTOCNode Id="6ffbb0c0-f51f-4b6c-b165-ca659a6eaa40" Title="OpenImageToBitmap Methods" Url="html/Methods_T_ConvexHull_OpenImageToBitmap.htm">
+        <HelpTOCNode Title="OpenImage Method " Url="html/M_ConvexHull_OpenImageToBitmap_OpenImage.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="20f3be4e-033c-4a61-a484-7b88b3a9cdf2" Title="ConvexHullConsole" Url="html/N_ConvexHullConsole.htm">
+    <HelpTOCNode Id="67333e98-1066-4560-ab20-3391074612bc" Title="Program Class" Url="html/T_ConvexHullConsole_Program.htm">
+      <HelpTOCNode Title="Program Constructor " Url="html/M_ConvexHullConsole_Program__ctor.htm" />
+      <HelpTOCNode Id="a0c2d70c-ed61-4646-b19b-303342557d09" Title="Program Methods" Url="html/Methods_T_ConvexHullConsole_Program.htm">
+        <HelpTOCNode Title="Main Method " Url="html/M_ConvexHullConsole_Program_Main.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
